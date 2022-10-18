@@ -1,0 +1,12 @@
+body{background-color: white;}
+.Logo1 {
+    width: 200px;
+    height: 200px;}
+.articulo1 , .articulo2 {
+    color: rgb(224, 6, 6);
+    background-color: beige;}
+.encabezado {
+    text-align: center;
+    background-color: bisque;
+    padding: 15px;
+}
